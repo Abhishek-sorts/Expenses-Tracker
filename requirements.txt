@@ -1,0 +1,6 @@
+python-telegram-bot==20.7
+faster-whisper
+gspread
+oauth2client
+pydub
+python-dotenv
